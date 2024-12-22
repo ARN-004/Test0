@@ -1,12 +1,8 @@
 const isLogin = (user) => {
-<<<<<<< HEAD
-  return true;
-=======
   if (username =="ali"){
     return true;
   }
   else return false;
->>>>>>> refaoctorcode
 };
 
 const register = (user) => {
