@@ -1,5 +1,5 @@
 const isLogin = (user) => {
-  if (username =="ali"){
+  if (username =="ali" || username =="mohammad"){
     return true;
   }
   else return false;
@@ -13,8 +13,8 @@ const getMe = (user) => {
   return "user";
 };
 
-// const addCourse = (course) => {
-//   return true;
-// };
+const addCourse = (course) => {
+  return true;
+};
 
 const test = () => false;
