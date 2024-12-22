@@ -1,5 +1,8 @@
 const isLogin = (user) => {
-  return true;
+  if (username =="ali"){
+    return true;
+  }
+  else return false;
 };
 
 const register = (user) => {
