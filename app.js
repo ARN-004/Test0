@@ -10,8 +10,8 @@ const getMe = (user) => {
   return "user";
 };
 
-const addCourse = (course) => {
-  return true;
-};
+// const addCourse = (course) => {
+//   return true;
+// };
 
 const test = () => false;
